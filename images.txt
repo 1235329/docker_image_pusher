@@ -4,7 +4,6 @@ httpd:latest
 nginx:latest
 busybox:1.28
 busybox:latest
-centos:9
 php:8-apache
 mysql:8.0
 nginx:1.20
