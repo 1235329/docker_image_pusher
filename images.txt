@@ -1,1 +1,1 @@
-prom/alermanager
+prometheus/alermanager:latest
